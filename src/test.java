@@ -25,6 +25,8 @@ public class test {
 		{
 		System.out.println("It is  a Palindrome");
 		System.out.println("hii");
+		System.out.println("hii");
+
 		
 		}
 		}
