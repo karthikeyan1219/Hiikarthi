@@ -1,5 +1,10 @@
 
 public class test {
+
+	private void method1() {
+   System.out.println("hii"); 
+	}
+	
 	public static void main(String[] args) {
 		String s="madam";
 		String t="";
@@ -9,15 +14,20 @@ public class test {
 		}
 		System.out.println(t);
 		
+		
+		
 		if(s==t)
 		{	
 		System.out.println("It is not a Palindrome");
+		
 		}
 		else
 		{
 		System.out.println("It is  a Palindrome");
 		System.out.println("hii");
 		System.out.println("hii");
+
+		
 		}
 		}
 }
